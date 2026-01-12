@@ -2,7 +2,7 @@
 This project will develop an AI-based chatbot that assists patients and hospital visitors in obtaining hospital service information quickly, accurately, and efficiently, without replacing the role of medical professionals. With this project, the hospital’s customer service workload can be reduced, responses can be provided quickly 24/7 without waiting for hospital staff to be online, information delivery becomes more consistent, and the system can be easily scaled and developed for production use.
 
 ## Use Case
-**Target User: **
+**Target User:**
 - New patients: Confused about the registration process
 - Returning patients: Looking for doctor schedules
 - Patient families: Seeking information about inpatient services
